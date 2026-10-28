@@ -1,0 +1,1 @@
+checking the git cloning form the github to git bash
